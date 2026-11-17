@@ -1,0 +1,2 @@
+# Core project uses Python standard library only.
+# Optional SMS provider integrations can be added later.
